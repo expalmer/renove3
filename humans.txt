@@ -1,0 +1,10 @@
+/* TEAM */
+   Frontend developer: Palmer Oliveira
+   Twitter: @expalmer
+   From: Gravatai, Brazil
+
+/* SITE */
+   Last update:2013/07/02
+   Language: Portuguese
+   Doctype: HTML5
+   IDE: Sublime Text 2, Photoshop
