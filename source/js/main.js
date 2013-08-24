@@ -1,9 +1,9 @@
 var w = window.innerWidth || document.documentElement.clientWidth || document.documentElement.getElementsByTagName('body')[0].clientWidth;
 var q;
 if(w > 640) {
-    q = "://192.168.33.2/renove3/js/desktop.min.js";
+    q = "://renove3.com.br/js/desktop.min.js";
 } else {
-    q = "://192.168.33.2/renove3/js/mobile.min.js";
+    q = "://renove3.com.br/js/mobile.min.js";
 }
 (function() {
     var wf = document.createElement('script');

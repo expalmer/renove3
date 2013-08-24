@@ -5,6 +5,10 @@ RewriteCond %(SCRIPT_FILENAME) !-f
 
 RewriteCond %{HTTP_HOST} ^www\.(.*)
 RewriteRule (.*) http://%1/$1 [R=301,L]
+
+#======== LAYOUT  =========#
+RewriteRule ^(layout)(\/)$ http://renove3.com.br/layout/ [R=301,L]
+
 # ----------------------------------------------------------------------
 # Better website experience for IE users
 # ======================================================================
